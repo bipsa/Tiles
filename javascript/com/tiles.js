@@ -1,6 +1,6 @@
 /**
  * @author Sebastian Romero
- * @plugin This plugin creates a tiles in the given container
+ * @plugin This plugin creates a tiles to a given container
  */
 ;(function($){
 	
